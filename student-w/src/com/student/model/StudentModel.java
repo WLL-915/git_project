@@ -2,7 +2,7 @@ package com.student.model;
 
 public class StudentModel {
 	
-	private int id;
+	private int id;//id
 	private String username;
 	private String password;
 	private int sex;
